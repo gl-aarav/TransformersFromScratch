@@ -146,3 +146,6 @@ class DecoderBlock(nn.Module):
         self.residual_connections = nn.Module([ResidiualConnection(dropout) for _ in range(3)])
 
     def forward
+    hello
+
+    print(hello)
