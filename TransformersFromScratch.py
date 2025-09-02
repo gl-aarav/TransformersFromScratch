@@ -147,4 +147,7 @@ class DecoderBlock(nn.Module):
 
     def forward
 
-        
+        print(hello)
+    sdijasdijoiojsadoij
+
+    asiijqwjioejioewq
